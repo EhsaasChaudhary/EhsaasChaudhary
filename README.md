@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaaschaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaaschaudhary" /> </p>
 
-- 🔭 I’m currently working on [BanksMy - One Stop Banking App](https://github.com/EhsaasChaudhary/banks_my)
+- 🔭 I’m currently working on [Sanjivani - Healthcare Infrastructure App](https://github.com/EhsaasChaudhary/sanjivani)
 
 - 🌱 I’m currently learning **React JS, Next JS, React Native, Aceternity UI, Redux, Firebase and Java**
 
