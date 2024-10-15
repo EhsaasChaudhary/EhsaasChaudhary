@@ -9,13 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://ec-developer-portfolio.vercel.app/](https://ec-developer-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://dev.to/ehsaas_chaudhary](https://dev.to/ehsaas_chaudhary)
-
 - 💬 Ask me about **React JS, Next JS, Java and Tailwind**
 
 - 📫 How to reach me **Ehsaaschaudhary2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w7DblWoY6Fwj1F5j1bneo3OytqluZ5Nh/view?usp=sharing](https://drive.google.com/file/d/1w7DblWoY6Fwj1F5j1bneo3OytqluZ5Nh/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17UJYT-gyP8QxLkEG9xda70UOBt-jLxBN/view?usp=sharing)
 
 - ⚡ Fun fact **I Enjoy Communicating with crowd and people in general and have a great interest in Mass Communication**
 
