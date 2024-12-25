@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, React Native, Aceternity UI, ShadCN UI, Docker, AWS and Java**
 
-- 👨‍💻 All of my projects are available at [https://ec-developer-portfolio.vercel.app/](https://ec-developer-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ec-developer-portfolio.vercel.app/](https://ec-developer-portfolio.vercel.app)
 
 - 💬 Ask me about **React JS, Next JS, Java and Tailwind**
 
