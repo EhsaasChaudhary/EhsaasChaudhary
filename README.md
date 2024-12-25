@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaaschaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaaschaudhary" /> </p>
 
-- 🔭 I’m currently working on [Sanjivani - Healthcare Infrastructure App](https://github.com/EhsaasChaudhary/sanjivani)
+- 🔭 I’m currently working on [TablesMate - Table based DBMS](https://github.com/EhsaasChaudhary/TablesMate)
 
-- 🌱 I’m currently learning **React JS, Next JS, React Native, Aceternity UI, Redux, Firebase and Java**
+- 🌱 I’m currently learning **React JS, Next JS, React Native, Aceternity UI, ShadCN UI, Docker, AWS and Java**
 
 - 👨‍💻 All of my projects are available at [https://ec-developer-portfolio.vercel.app/](https://ec-developer-portfolio.vercel.app/)
 
